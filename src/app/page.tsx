@@ -14,7 +14,7 @@ export default function Home() {
         "Real-world Projects & Assignments",
         "Lifetime Access to Updates"
       ],
-      image: "/1.jpg",
+      image: "https://placehold.co/600x400/333/white?text=Mobile+App+Development",
       students: "50,000+"
     },
     {
@@ -28,7 +28,7 @@ export default function Home() {
         "Database Management",
         "Performance Optimization"
       ],
-      image: "/2.jpg",
+      image: "https://placehold.co/600x400/333/white?text=Full+Stack+Development",
       students: "45,000+"
     },
     {
@@ -42,7 +42,7 @@ export default function Home() {
         "Multiplayer Game Development",
         "Game Physics & Mechanics"
       ],
-      image: "/3.jpg",
+      image: "https://placehold.co/600x400/333/white?text=Game+Development",
       students: "30,000+"
     },
     {
@@ -56,7 +56,7 @@ export default function Home() {
         "Digital Art & Animation",
         "Print & Digital Design"
       ],
-      image: "/4.jpg",
+      image: "https://placehold.co/600x400/333/white?text=Design+and+Creativity",
       students: "35,000+"
     },
     {
@@ -70,7 +70,7 @@ export default function Home() {
         "Neural Networks",
         "Feature Engineering"
       ],
-      image: "/5.jpg",
+      image: "https://placehold.co/600x400/333/white?text=AI+and+Data+Science",
       students: "40,000+"
     },
     {
@@ -84,7 +84,7 @@ export default function Home() {
         "Entrepreneurship Skills",
         "Marketing Analytics"
       ],
-      image: "/6.jpg",
+      image: "https://placehold.co/600x400/333/white?text=Business+and+Marketing",
       students: "38,000+"
     }
   ];

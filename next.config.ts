@@ -5,6 +5,12 @@ const nextConfig = {
   basePath: '/codestore',
   images: {
     unoptimized: true,
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'placehold.co',
+      },
+    ],
   },
 }
 
